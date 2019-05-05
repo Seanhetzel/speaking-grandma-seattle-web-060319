@@ -6,6 +6,7 @@ def speak_to_grandma(phrase)
     "NO, NOT SINCE 1938!"
   elsif phrase.downcase:
     "HUH?! SPEAK UP, SONNY!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
